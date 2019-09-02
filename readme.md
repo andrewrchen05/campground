@@ -2,9 +2,9 @@
 
 #### URL: https://squadledge.herokuapp.com/
 
-A simple blog web application deployed using Heroku.
+Rendering academic material web-accessible on a blog style website.
 
-#### Features Include (in alphabetical order):
+#### Features Include:
 
 * **Authentication**
 
