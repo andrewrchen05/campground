@@ -1,6 +1,6 @@
 # Heroku-based Campground Web Application #
 
-#### URL: https://andrewchen-yelpcamp.herokuapp.com/
+#### URL: https://squadledge.herokuapp.com/
 
 A simple blog web application deployed using Heroku.
 
